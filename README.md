@@ -14,5 +14,7 @@ FIND users have to specify the directory they will be searching.
 Help provides help for other bash commands.
 Man pages, users can see the manuals for a command with the man command.
 whatis provides a brief description of command line programs.
-alias used for repetitive or long  command
+alias used for repetitive or long command
 Exit to leave the shell
+~  
+
